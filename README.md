@@ -5,8 +5,11 @@ This is a boilerplate of Steemconnect V2 implemented in Ionic 3
 ## Steps to install
 
 > git clone https://github.com/jayserdny/ionic-steemconnect
+
 > cd ionic-steemconnect
+
 > npm install
+
 > ionic serve --l
 
 ## Tutorial
